@@ -1,7 +1,9 @@
 ### Hello there 👋
 
 I am a fullstack web application developer from Sri Lanka 🌊 and I absolutely love to code 💻 <br/>
-I am employed as a senior software engineer at a Spanish based company in Colombo but I am always open to new and exciting oppurtunities 💪
+I am currently working as a Software Engineer at an amazing company called [CabbageApps](https://www.cabbageapps.com/) where I develop Fullstack JavaScript applications 💪
+I'm constantly working on improving my coding skills, learning new technologies and building hobby projects 👾  <br/>
+If you're interested in working with me, I'd be glad to hear from you 📞
 
 My primary web development stack is 
 * React.js
