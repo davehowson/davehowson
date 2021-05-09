@@ -11,7 +11,7 @@ My primary web development stack is
 * Node.js
 
 But I also love working with Laravel and Django. <br/>
-I recently started writing tech articles and you can find my first article on [dev.to](https://dev.to/davehowson/an-introduction-to-wsl-2igf) </br>
+I write articles whenever I can find some free time. You can find them on [dev.to](https://dev.to/davehowson) </br>
 
 #### My stack mostly includes
 ![](https://img.shields.io/badge/-javascript-yellow?style=flat)
